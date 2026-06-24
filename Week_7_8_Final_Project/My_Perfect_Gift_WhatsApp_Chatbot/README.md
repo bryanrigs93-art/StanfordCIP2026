@@ -1,5 +1,21 @@
 # My Perfect Gift WhatsApp Chatbot
 
+## Run on WhatsApp
+
+You can interact with this Code in Place project directly on WhatsApp.
+
+Send this message:
+
+```text
+PVXRMT
+```
+
+to this number:
+
+```text
++1 (415) 728-3856
+```
+
 ## Overview
 
 This is the console chatbot version of my final project for Code in Place.
