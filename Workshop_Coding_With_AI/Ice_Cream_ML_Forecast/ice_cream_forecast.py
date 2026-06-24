@@ -9,6 +9,10 @@ This is a learning demo, not a real business forecasting model.
 The dataset is small, so the results should be interpreted carefully.
 """
 
+# Code in Place IDE demo:
+# Open this link and click Run to execute the program in the CIP IDE.
+# https://codeinplace.stanford.edu/cip6/share/7DVtnaNolUE73DDVcFnK
+
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
