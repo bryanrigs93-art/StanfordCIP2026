@@ -1,7 +1,6 @@
-Code in place IDE demo:
-
-https://codeinplace.stanford.edu/cip6/share/j0APqaisXEFgqKmYXIda
-
+# Code in Place IDE demo:
+# Open this link and click Run to execute the program in the CIP IDE.
+# https://codeinplace.stanford.edu/cip6/share/j0APqaisXEFgqKmYXIda
 
 """
 Program: Hospital Karel
