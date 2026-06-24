@@ -42,8 +42,8 @@ This version can also be tested directly in the Code in Place IDE using the shar
 The project link is saved in:
 
 ```text
-code_in_place_link.txt
-```
+
+https://codeinplace.stanford.edu/cip6/share/dyMyIDegxVXA1AzeWgwz
 
 Click **Run** in the Code in Place IDE to test the project.
 
