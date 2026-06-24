@@ -1,3 +1,7 @@
+# Code in Place IDE demo:
+# Open this link and click Run to execute the program in the CIP IDE.
+# https://codeinplace.stanford.edu/cip6/share/AkJdcgjzxiRG7TxwjXm6
+
 """
 Program: Random Circles
 
@@ -14,9 +18,7 @@ Concepts practiced:
 - Drawing ovals
 """
 
-# Code in Place IDE demo:
-# Open this link and click Run to execute the program in the CIP IDE.
-# https://codeinplace.stanford.edu/cip6/share/AkJdcgjzxiRG7TxwjXm6
+
 
 from graphics import Canvas
 import random
