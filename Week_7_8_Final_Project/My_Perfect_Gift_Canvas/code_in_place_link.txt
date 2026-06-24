@@ -1,0 +1,5 @@
+Code in Place shared project key:
+
+dyMyIDegxVXA1AzeWgwz
+
+Open it from the Code in Place share page to run the Canvas version in the IDE.
