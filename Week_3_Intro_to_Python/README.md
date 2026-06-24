@@ -1,29 +1,31 @@
-Week 3 — Introduction to Python
-This week marked my transition into text-based programming, moving from Karel's grid world to core Python syntax. I learned how to store data using variables, interact with users through input/output functions, and perform mathematical calculations.
+# Week 3 — Intro to Python
 
-Topics Covered
-Variables: Learning how to assign, store, and update data in memory.
+## Overview
 
-User Input: Using input() to capture data typed by a user and converting it into numbers (integers or floats).
+This exercise introduced basic Python input, variables, type conversion, arithmetic operations, and formatted output.
 
-Mathematical Operations: Performing calculations using basic operators (+, -, *, /) to change numerical values.
+The program asks the user for a weight on Earth and calculates the equivalent weight on Mars using a gravity conversion factor.
 
-Printing Output: Using print() to display clean messages and final results to the user.
+## Main Concepts
 
-Programs
-Mars_Weight.py
-Description: A conversion program that takes a user's weight on Earth and calculates their weight on Mars based on its gravity.
+* Variables
+* Constants
+* User input
+* Type conversion
+* Arithmetic operations
+* Rounding
+* F-strings
 
-Practice: Focused on input conversion, float multiplication, and printing formatted strings.
+## File
 
-Planetary_Weight.py
-Description: An expanded calculator that allows the user to choose from different planets in the solar system, dynamically calculating their weight based on the selected planet.
+* `Mars_Weight.py` — Mars weight conversion program
 
-Practice: Focused on handling multiple variables, organizing numbers, and managing a multi-step calculation flow.
+## Run in Code in Place IDE
 
-Learning Outcomes
-Syntax Confidence: Getting comfortable writing clean Python code without relying on a visual environment.
+[Open the Mars Weight demo in the Code in Place IDE](https://codeinplace.stanford.edu/cip6/share/7a1nHq3myBuqEpMFbcno)
 
-Dynamic Logic: Understanding how to make programs interactive instead of just running static data.
+Click **Run** in the Code in Place IDE to test the program.
 
-Data Flow: Seeing clearly how data enters a program, gets transformed by math, and outputs back to the user.
+## Takeaway
+
+This problem helped me understand how Python can take user input, convert it into a number, perform a calculation, and display a clear result.
