@@ -1,0 +1,10 @@
+python
+function
+variable
+loop
+condition
+list
+dictionary
+canvas
+random
+input
