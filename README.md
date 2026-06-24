@@ -13,7 +13,7 @@ This repository documents my progress learning Python foundations through weekly
 
 ---
 
-## 👋 About Me
+## About Me
 
 Hi! My name is **Bryan**.
 
@@ -21,18 +21,18 @@ I am a **Business Technology Management (BTM)** student learning Python to build
 
 I am especially interested in:
 
-* 💼 Business Technology Management
-* 📊 Data analysis
-* ⚙️ Business process automation
-* 🤖 AI-assisted workflows
-* 🧠 AI agents
-* 📈 Decision-support systems
+* Business Technology Management
+* Data analysis
+* Business process automation
+* AI-assisted workflows
+* AI agents
+* Decision-support systems
 
 My goal is not only to write code, but to understand how Python can help solve real business problems, organize data, automate repetitive tasks, and support better decision-making.
 
 ---
 
-## 💡 My Learning Shift
+## My Learning Shift
 
 Before learning programming foundations, many of my experiments with AI, automation, and APIs were based mostly on trial and error.
 
@@ -52,34 +52,34 @@ Python has become more than just syntax for me. It is a practical tool to:
 * Organize information
 * Automate repetitive tasks
 * Connect business needs with technology solutions
-* Check Data
+* Check data quality
 
 As someone interested in Business Technology Management, I want to keep developing the ability to translate business problems into technical solutions using programming, data, automation, and AI-assisted tools.
 
 ---
 
-## 🎯 Repository Goal
+## Repository Goal
 
 The purpose of this repository is to show my learning journey from basic programming concepts to a final applied project.
 
 Throughout this portfolio, I practiced:
 
-| Area                    | What I Practiced                                                           |
-| ----------------------- | -------------------------------------------------------------------------- |
-| 🧩 Problem Solving      | Breaking workflows into smaller, manageable steps                          |
-| 🔁 Code Reusability     | Writing clean and reusable functions                                       |
-| 🧠 Logical Thinking     | Using conditions and loops to control program behavior                     |
-| 📦 Data Management      | Working with lists and dictionaries to organize information                |
-| 📄 File Ingestion       | Reading data from CSV files for simple calculations and analysis           |
-| 🎨 Visual Interfaces    | Creating simple graphic designs and visual layouts                         |
-| ⚙️ Workflow Thinking    | Simulating business workflows and automation ideas                         |
-| 🤖 AI-Assisted Thinking | Exploring how structured logic can support assistant-style recommendations |
+| Area | What I Practiced |
+| ---- | ---------------- |
+| Problem Solving | Breaking workflows into smaller, manageable steps |
+| Code Reusability | Writing clean and reusable functions |
+| Logical Thinking | Using conditions and loops to control program behavior |
+| Data Management | Working with lists and dictionaries to organize information |
+| File Ingestion | Reading data from CSV files for simple calculations and analysis |
+| Visual Interfaces | Creating simple graphic designs and visual layouts |
+| Workflow Thinking | Simulating business workflows and automation ideas |
+| AI-Assisted Thinking | Exploring how structured logic can support assistant-style recommendations |
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
-### 🐍 Python Foundations
+### Python Foundations
 
 * Variables and input/output
 * Strings and numbers
@@ -91,9 +91,7 @@ Throughout this portfolio, I practiced:
 * CSV file reading
 * Simple debugging
 
----
-
-### 🤖 Karel Foundations
+### Karel Foundations
 
 * Movement logic
 * Helper functions
@@ -102,9 +100,7 @@ Throughout this portfolio, I practiced:
 * Conditional thinking
 * Step-by-step problem solving
 
----
-
-### 🎨 Graphics
+### Graphics
 
 * Canvas
 * Rectangles
@@ -117,9 +113,9 @@ Throughout this portfolio, I practiced:
 
 ---
 
-## 🧭 Weekly Learning Sections
+## Weekly Learning Sections
 
-### 🌍 Week 1 — Karel Foundations
+### Week 1 — Karel Foundations
 
 In this section, I practiced problem solving with **Karel the Robot**.
 
@@ -131,9 +127,7 @@ In this section, I practiced problem solving with **Karel the Robot**.
 * If statements
 * Step-by-step logic
 
----
-
-### 🐍 Week 2 — Python Basics
+### Week 2 — Python Basics
 
 In this section, I practiced the first Python concepts.
 
@@ -145,9 +139,7 @@ In this section, I practiced the first Python concepts.
 * Data types
 * Simple calculations
 
----
-
-### 🔀 Week 3 — Control Flow
+### Week 3 — Control Flow
 
 In this section, I learned how programs make decisions.
 
@@ -159,9 +151,7 @@ In this section, I learned how programs make decisions.
 * Boolean logic
 * While loops
 
----
-
-### 🧩 Week 4 — Functions
+### Week 4 — Functions
 
 In this section, I practiced organizing code into reusable parts.
 
@@ -173,9 +163,7 @@ In this section, I practiced organizing code into reusable parts.
 * Helper functions
 * Decomposition
 
----
-
-### 🎨 Week 5 — Graphics
+### Week 5 — Graphics
 
 In this section, I learned how to create visual programs.
 
@@ -188,9 +176,7 @@ In this section, I learned how to create visual programs.
 * Simple interfaces
 * Visual organization
 
----
-
-### 📊 Week 6 — Data: Lists and Dictionaries
+### Week 6 — Data: Lists and Dictionaries
 
 In this section, I learned how Python stores and organizes data.
 
@@ -206,11 +192,30 @@ In this section, I learned how Python stores and organizes data.
 
 ---
 
-## 🚀 Week 7 / 8 — Final Project
+## Week 7 / 8 — Final Project
+
+My final project is **My Perfect Gift Chatbot**, a personalized gift recommendation assistant.
+
+The project connects Python foundations with a real business idea. It uses a CSV catalog of products, asks the customer a few questions, filters the best options with rule-based logic, and calls GPT to generate a clearer recommendation.
+
+The goal is to show the connection between business and technology: a small business can use structured data, automation, and AI-assisted workflows to improve the customer experience.
+
+**Key concepts:**
+
+* Chatbot workflow
+* CSV catalog data
+* Lists and dictionaries
+* Conditional logic
+* Product scoring
+* GPT-assisted recommendations
+* Text layout
+* User experience thinking
+* Business idea presentation
+* Tech-business connection
 
 ---
 
-## 🤖 Extra Content — Coding With AI
+## Extra Content — Coding With AI
 
 As part of the extra Code in Place content, I explored how AI can support the programming process.
 
@@ -235,7 +240,7 @@ For me, coding with AI is not about replacing learning. It is about using AI as 
 
 ---
 
-## 🍦 Extra Project — Ice Cream Sales Forecast
+## Extra Project — Ice Cream Sales Forecast
 
 In the **Extra Content — Coding With AI** section, I also worked on a beginner-friendly data project called **Ice Cream Sales Forecast**.
 
@@ -258,7 +263,7 @@ This project helped me understand that machine learning and forecasting start wi
 
 ---
 
-## 🚀 What's Next?
+## What's Next?
 
 This portfolio represents the foundation of my programming journey.
 
@@ -280,11 +285,10 @@ My goal is to keep building projects that connect programming, data, automation,
 
 ---
 
-## 🌱 Main Takeaway
+## Main Takeaway
 
 This course helped me understand that programming is not just about memorizing syntax.
 
 It is about learning how to think logically, break problems into smaller parts, and use technology to create creative and practical solutions.
 
 Python gave me a foundation to experiment with ideas in a more structured way and to better understand how business problems can become technical solutions.
-
