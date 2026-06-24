@@ -1,4 +1,4 @@
-# 🐍 Stanford Code in Place: Python Portfolio
+# 🐍 Stanford Code in Place 2026: Python Portfolio
 
 ![Stanford](https://img.shields.io/badge/Stanford-Code%20in%20Place-red)
 ![Python](https://img.shields.io/badge/Python-Foundations-blue)
