@@ -208,14 +208,6 @@ In this section, I learned how Python stores and organizes data.
 
 ## 🚀 Week 7 / 8 — Final Project
 
-# 🏢 Smart Company AI Hub
-
-My final project is called **Smart Company AI Hub**.
-
-It is a Python Graphics dashboard that simulates business workflows using beginner-friendly Python.
-
-The project connects Python foundations with practical business use cases such as employee data, payroll estimates, sales targets, KPI review, and assistant-style recommendations.
-
 ---
 
 ## 🤖 Extra Content — Coding With AI
@@ -292,7 +284,7 @@ My goal is to keep building projects that connect programming, data, automation,
 
 This course helped me understand that programming is not just about memorizing syntax.
 
-It is about learning how to think logically, break problems into smaller parts, and use technology to create practical solutions.
+It is about learning how to think logically, break problems into smaller parts, and use technology to create creative and practical solutions.
 
 Python gave me a foundation to experiment with ideas in a more structured way and to better understand how business problems can become technical solutions.
 
