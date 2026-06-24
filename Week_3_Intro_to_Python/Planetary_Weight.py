@@ -17,6 +17,10 @@ Concepts practiced:
 - F-strings
 """
 
+# Code in Place IDE demo:
+# Open this link and click Run to execute the program in the CIP IDE.
+# https://codeinplace.stanford.edu/cip6/share/zk7g2eVRZiYN8rMiDrtt
+
 MERCURY_GRAVITY = 0.376
 VENUS_GRAVITY = 0.889
 MARS_GRAVITY = 0.378
