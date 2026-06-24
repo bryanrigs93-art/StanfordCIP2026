@@ -6,6 +6,28 @@ This is my final project console version designed to run through the Code in Pla
 
 The chatbot helps a customer choose a personalized gift by asking five quick questions and matching the answers with products from a real catalog.
 
+## WhatsApp Demo
+
+You can interact with this project directly through the Code in Place WhatsApp runner.
+
+Send this message:
+
+```text
+PVXRMT
+```
+
+to this WhatsApp number:
+
+```text
++1 (415) 728-3856
+```
+
+Shared message:
+
+```text
+Hey! I want you to see my Code in Place project. You can interact with my program directly on WhatsApp. Send message PVXRMT to +1 (415) 728-3856 to see it run!
+```
+
 ## How It Works
 
 1. The user chooses English or Spanish.
@@ -38,9 +60,10 @@ That file works as the product catalog database for the chatbot.
 - GPT-assisted recommendation
 - WhatsApp chatbot workflow
 
-## File
+## Files
 
 - `my_perfect_gift_whatsapp_chatbot.py` — Console chatbot version for WhatsApp.
+- `catalogo_real_mi_regalo_perfecto.csv` — Real product catalog used by the chatbot.
 
 ## Takeaway
 
