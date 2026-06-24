@@ -1,10 +1,18 @@
-# My Perfect Gift — Tech Business Connection
+# My Perfect Gift Chatbot in IDE
+
+## Run in Code in Place IDE
+
+You can test this version directly in the Code in Place IDE:
+
+https://codeinplace.stanford.edu/cip6/share/dyMyIDegxVXA1AzeWgwz
+
+Click Run in the Code in Place IDE to test the project.
 
 ## Overview
 
-This is the visual version of my final project idea: **My Perfect Gift**, a personalized gift recommendation assistant.
+This is the visual version of my final project idea: My Perfect Gift, a personalized gift recommendation assistant.
 
-The focus of this project is not only the canvas itself. The main idea is to show how Python can connect **business needs** with **technology solutions**.
+The focus of this project is not only the visual layout. The main idea is to show how Python can connect business needs with technology solutions.
 
 The project represents a simple business workflow where a customer needs help choosing a personalized gift. The interface presents the idea in a clear and organized way, similar to how a small business could explain or prototype a digital assistant.
 
@@ -34,18 +42,6 @@ Instead of only writing isolated code, I used Python to think about:
 - How GPT can help generate a clearer customer-facing recommendation.
 - How text layout can guide the user through the experience.
 - How a simple prototype can communicate a business idea.
-
-## Run in Code in Place IDE
-
-This version can also be tested directly in the Code in Place IDE using the shared project link.
-
-The project link is saved in:
-
-```text
-
-https://codeinplace.stanford.edu/cip6/share/dyMyIDegxVXA1AzeWgwz
-
-Click **Run** in the Code in Place IDE to test the project.
 
 ## Main Concepts
 
