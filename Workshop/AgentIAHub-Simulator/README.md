@@ -1,5 +1,7 @@
 # AgentIAHub Simulator
 
+https://codeinplace.stanford.edu/cip6/share/zNop9IMl04UcxtGAy1il
+
 AgentIAHub Simulator is a learning project that simulates a corporate AI Agent Hub.
 
 The project shows how a manager can coordinate specialized task-oriented assistants for different business areas. It combines Python logic, terminal interaction, a visual dashboard, session reports, and optional AI-assisted recommendations.
