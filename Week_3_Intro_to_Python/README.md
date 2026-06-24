@@ -2,9 +2,9 @@
 
 ## Overview
 
-This exercise introduced basic Python input, variables, type conversion, arithmetic operations, and formatted output.
+This section introduced basic Python input, variables, type conversion, arithmetic operations, conditionals, and formatted output.
 
-The program asks the user for a weight on Earth and calculates the equivalent weight on Mars using a gravity conversion factor.
+The exercises focus on taking user input, converting it into numbers, applying a calculation, and printing a clear result.
 
 ## Main Concepts
 
@@ -12,20 +12,23 @@ The program asks the user for a weight on Earth and calculates the equivalent we
 * Constants
 * User input
 * Type conversion
+* If / elif / else statements
 * Arithmetic operations
 * Rounding
 * F-strings
 
-## File
+## Files
 
-* `Mars_Weight.py` — Mars weight conversion program
+* `Mars_Weight.py` — Converts Earth weight into Mars weight.
+* `Planetary_Weight.py` — Converts Earth weight into the equivalent weight on a selected planet.
 
 ## Run in Code in Place IDE
 
-[Open the Mars Weight demo in the Code in Place IDE](https://codeinplace.stanford.edu/cip6/share/7a1nHq3myBuqEpMFbcno)
+* [Open the Mars Weight demo in the Code in Place IDE](https://codeinplace.stanford.edu/cip6/share/7a1nHq3myBuqEpMFbcno)
+* [Open the Planetary Weight demo in the Code in Place IDE](https://codeinplace.stanford.edu/cip6/share/zk7g2eVRZiYN8rMiDrtt)
 
-Click **Run** in the Code in Place IDE to test the program.
+Click **Run** in the Code in Place IDE to test each program.
 
 ## Takeaway
 
-This problem helped me understand how Python can take user input, convert it into a number, perform a calculation, and display a clear result.
+These problems helped me understand how Python can take user input, convert it into useful data, apply logic, and display a result in a clean way.
