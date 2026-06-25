@@ -26,17 +26,17 @@ Each assistant asks five short questions in the terminal and shows the experienc
 - Terminal-based answers
 - Five-question decision flow
 - Canvas screens for selection, questions, loading, and results
-- Optional GPT recommendation through `ai.call_gpt`
-- Safe fallback response when GPT is not available
+- Optional AI-assisted recommendations when supported by the environment
+- Safe fallback response when AI assistance is not available
 - Simple icons and image support for each bot
 - Restart option after the recommendation
 
 ## Stack
 
 - Python 3
-- `graphics.py` / `graphics.Canvas`
+- Code in Place canvas graphics library
 - `time`
-- Optional: `ai.call_gpt`
+- Optional AI helper available in some Code in Place environments
 - Image files for bot cards, such as `Movies.png`, `Series.png`, `music.png`, `Books.png`, `Game.png`, and `Food.png`
 
 ## How to Run
