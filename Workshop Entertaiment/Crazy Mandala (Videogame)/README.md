@@ -1,6 +1,6 @@
 # Crazy Mandala (Videogame)
 
-> Learning videogame project — created for fun and practice in Stanford Code in Place.
+> Learning videogame project — Assisted with AI Codex created for fun and practice in Stanford Code in Place.
 
 **Crazy Mandala** is an interactive Python canvas game where the player scratches a colorful mandala-style lion image and unlocks different mini-game phases as progress increases.
 
@@ -35,13 +35,11 @@ The experience changes as the player advances:
 - Snake final level
 - Restart button
 - Lion facts during the game
-- Local JSON storage for player profiles
 
 ## Stack
 
 - Python 3
 - `graphics.py` / `graphics.Canvas`
-- `json`
 - `math`
 - `os`
 - `random`
@@ -52,12 +50,9 @@ The experience changes as the player advances:
 ```text
 Crazy Mandala (Videogame)/
 ├── main.py
-├── crazy_mandala_players.json
 ├── machete.png
 └── README.md
 ```
-
-`crazy_mandala_players.json` is used to store player profiles and best scores.
 
 ## How to Run
 
@@ -128,8 +123,6 @@ This project is more than a simple drawing. It combines:
 - Game state management
 - Multiple game phases
 - Mouse interaction
-- Local file storage
-- Score tracking
 - Restart logic
 - Visual feedback
 
@@ -149,6 +142,7 @@ Possible future improvements:
 - Add collectible items
 - Improve collision detection
 - Add instructions inside the canvas
+- Storage for best score players
 
 ## Status
 
