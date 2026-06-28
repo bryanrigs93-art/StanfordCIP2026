@@ -58,7 +58,7 @@ Special thanks to **Stanford University**, **Code In Place**, **Stanford Online*
 
 ## MUSIC
 
-I also created a short song just for fun while putting into practice the first basic Karel commands we learned in the first Python lesson.
+A fun little team project created while practicing the very first Karel commands I learned. I worked on this in collaboration with MaH, my teammate, who helped bring Karel’s movements to life through visuals:
 
 🎵 **Karel Movement Song:**  
 https://youtu.be/Ol0XR9Q6nqQ
