@@ -1,5 +1,11 @@
 # Restaurant Tips Analysis & High Tip Prediction
 
+## Open in Google Colab
+
+Use this link to open and run the project directly in Google Colab:
+
+[Open the project in Google Colab](https://colab.research.google.com/drive/1PPFQPXRzfr8JUdseor-0yq6nQ13NscJ5?usp=sharing)
+
 ## Project Overview
 
 This is a functional beginner-friendly data science project built in Google Colab.
@@ -58,7 +64,11 @@ A high-tip record is defined as a record where `tip_percentage` is greater than 
 
 ## How to Run
 
-Open the notebook in Google Colab and run:
+Open the Colab notebook:
+
+[Open the project in Google Colab](https://colab.research.google.com/drive/1PPFQPXRzfr8JUdseor-0yq6nQ13NscJ5?usp=sharing)
+
+Then run:
 
 ```text
 Runtime > Restart runtime and run all
